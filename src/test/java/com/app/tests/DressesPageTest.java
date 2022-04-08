@@ -12,7 +12,7 @@ public class DressesPageTest {
 	HomePageObjects homePage;
 	SearchObject searchPage;
 	BasePage bp;
-	
+	//Created the Test Cases
 	public DressesPageTest(){
 		searchPage = new SearchObject();
 		homePage = new HomePageObjects();
